@@ -4,33 +4,19 @@ Esta atividade tem por objetivo desenvolver uma placa de circuito impresso capaz
 
 ## PCB
 
-<p style={{textAlign: 'center'}}>Figura 1 - PCB do projeto</p>
+<p align="center">
 
-<div style={{margin: 25}}>
-    <div style={{textAlign: 'center'}}>
-        <img src={require("images/pcb.png")} style={{width: 400}}/>
-        <br/>
-    </div>
-</div>
-
-<p style={{textAlign: 'center'}}></p>
+<img src="images/pcb.png" align="center" border="0">
 
 
 ## Schema
 
-<p style={{textAlign: 'center'}}>Schema do projeto</p>
+<p align="center">
 
-<div style={{margin: 25}}>
-    <div style={{textAlign: 'center'}}>
-        <img src={require("images/schema.png")} style={{width: 400}}/>
-        <br/>
-    </div>
-</div>
-
-<p style={{textAlign: 'center'}}></p>
+<img src="images/schema.png" align="center" border="0">
 
 ## 3D
 
-<p style={{textAlign: 'center'}}>3D do projeto</p>
-<img src={require("3d.png")} style={{width: 400}}/>
-<p style={{textAlign: 'center'}}></p>
+<p align="center">
+
+<img src="images/3d.png" align="center" border="0">
