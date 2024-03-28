@@ -32,12 +32,5 @@ Esta atividade tem por objetivo desenvolver uma placa de circuito impresso capaz
 ## 3D
 
 <p style={{textAlign: 'center'}}>3D do projeto</p>
-
-<div style={{margin: 25}}>
-    <div style={{textAlign: 'center'}}>
-        <img src={require("images/3d.png")} style={{width: 400}}/>
-        <br/>
-    </div>
-</div>
-
+<img src={require("3d.png")} style={{width: 400}}/>
 <p style={{textAlign: 'center'}}></p>
